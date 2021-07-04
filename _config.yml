@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhengrong Chen's Homepage"
+title                    : "Zhengrong Chen"
 title_separator          : "-"
 name                     : &name "Zhengrong Chen"
 description              : &description "personal description"
