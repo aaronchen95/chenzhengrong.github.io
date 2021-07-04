@@ -11,9 +11,9 @@ title                    : "Zhengrong Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Zhengrong Chen"
 description              : &description "personal description"
-url                      : https://chenzhengrong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhengrongchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aaronchen95/chenzhengrong.github.io"
+repository               : "zhengrongchen/zhengrongchen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Zhengrong Chen"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Atlanta, GA, US"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aaronchen95"
+  github           : "zhengrongchen"
   google_plus      :
   keybase          :
   instagram        :
