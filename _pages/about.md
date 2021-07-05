@@ -23,3 +23,6 @@ Geyang Xiao, Boyang Zhou, Kaiyi Lou, <b>Zhengrong Chen</b>
 ### Two-stage Photovoltaic Power Forecasting based on Extreme Learning Machine and Improved Pointwise Mutual Information
 <b>Zhengrong Chen</b>, Yang Hu  
 2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0lmixecXXxQGzYoILNwOria4RxrFNCTDGRRsZl3ZXio&cl=ffffff&w=a"></script>
