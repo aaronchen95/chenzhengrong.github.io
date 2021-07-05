@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Electrical and Computer Engineering student at Georgia Tech. With a solid background in power system, computer science and data science, my goal is to develop a more sustainable, intelligent and secure energy system creating a convenient and environmental-friendly life for everyone. For more information about me please see the links on this page.
+I am a second-year Electrical and Computer Engineering student at Georgia Institue of Technology. With a solid background in power system, computer science and data science, my goal is to develop a more sustainable, intelligent and secure energy system creating a convenient and environmental-friendly life for everyone. For more information about me please see the links on this page.
 
 ### Research Interests
 
