@@ -19,9 +19,9 @@ Selected Recent Publications
 ====
 
 ### Value Iteration Based Continuous-time Nonlinear Constrained Optimal Tracking Controller Design
-Geyang Xiao, Boyang Zhou, Kaiyi Lou, <b>Zhengrong Chen</b>
+Geyang Xiao, Boyang Zhou, Kaiyi Lou, <b>Zhengrong Chen</b>  
 2020 Chinese Automation Congress (CAC)
 
 ### Two-stage Photovoltaic Power Forecasting based on Extreme Learning Machine and Improved Pointwise Mutual Information
-<b>Zhengrong Chen</b>, Yang Hu
+<b>Zhengrong Chen</b>, Yang Hu  
 2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)
