@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : 
-  avatar           : "files/self-photo.jpg"
+  avatar           : "profile.png"
   bio              : '<font size=3><strong>Zhengrong Chen(陈峥嵘)</strong></font><br><br>A second-year PhD student at Georgia Tech'
   location         : "Atlanta, GA, US"
   employer         :
