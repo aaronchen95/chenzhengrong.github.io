@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Electrical and Computer Engineering student at Georgia Institue of Technology, working with <a href="https://pscal.ece.gatech.edu/prof-a-p-meliopoulos/">Prof. Meliopoulos</a>. With a solid background in power system, computer science and data science, my goal is to develop a more sustainable, intelligent and secure energy system creating a convenient and environmental-friendly life for everyone. For more information about me please see the links on this page.
+I am a second-year Electrical and Computer Engineering student at Georgia Institue of Technology. I join the the Power Systems Control and Automation Laboratory (PSCAL) under the supervision of <a href="https://pscal.ece.gatech.edu/prof-a-p-meliopoulos/">Prof. Meliopoulos</a>. With a solid background in power system, computer science and data science, my goal is to develop a more sustainable, intelligent and secure energy system creating a convenient and environmental-friendly life for everyone. For more information about me please see the links on this page.
 
 ### Research Interests
 
