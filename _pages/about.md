@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Electrical and Computer Engineering student at Georgia Institue of Technology, working with Prof. Meliopoulos. With a solid background in power system, computer science and data science, my goal is to develop a more sustainable, intelligent and secure energy system creating a convenient and environmental-friendly life for everyone. For more information about me please see the links on this page.
+I am a second-year Electrical and Computer Engineering student at Georgia Institue of Technology, working with <a href="https://pscal.ece.gatech.edu/prof-a-p-meliopoulos/">Prof. Meliopoulos</a>. With a solid background in power system, computer science and data science, my goal is to develop a more sustainable, intelligent and secure energy system creating a convenient and environmental-friendly life for everyone. For more information about me please see the links on this page.
 
 ### Research Interests
 
 Cyber-physical system, power system operation and cybersecurity, renewable energy integration, microgrid control, and machine learning.
 
 ### Selected Recent Publications
+
+### A modified model predictive control method for frequency regulation of microgrids under status feedback attacks and time-delay attacks
+<b>Zhengrong Chen</b>, Zhaoxi Liu, Lingfeng Wang 
+International Journal of Electrical Power & Energy Systems, 2022.
 
 ### Value Iteration Based Continuous-time Nonlinear Constrained Optimal Tracking Controller Design
 Geyang Xiao, Boyang Zhou, Kaiyi Lou, <b>Zhengrong Chen</b>  
