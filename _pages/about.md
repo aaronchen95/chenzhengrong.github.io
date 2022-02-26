@@ -18,7 +18,7 @@ Cyber-physical system, power system operation and cybersecurity, renewable energ
 
 ### A modified model predictive control method for frequency regulation of microgrids under status feedback attacks and time-delay attacks
 <b>Zhengrong Chen</b>, Zhaoxi Liu, Lingfeng Wang  
-International Journal of Electrical Power & Energy Systems, 2022.
+International Journal of Electrical Power & Energy Systems, 2022
 
 ### Value Iteration Based Continuous-time Nonlinear Constrained Optimal Tracking Controller Design
 Geyang Xiao, Boyang Zhou, Kaiyi Lou, <b>Zhengrong Chen</b>  
