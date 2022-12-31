@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-To see my resume please click [Here](http://zhengrongchen.github.io/files/cv.pdf).
+To see my resume please click [Here](http://zhengrongchen.github.io/files/Zhengrong_s_CV.pdf).
